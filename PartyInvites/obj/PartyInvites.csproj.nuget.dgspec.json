@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cody Chester\\Desktop\\MSSA\\ISTA 322\\PartyInvites\\PartyInvites.csproj": {}
+    "C:\\Users\\Cody Chester\\Documents\\GitHub\\MSSA-Exercises\\PartyInvites\\PartyInvites.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cody Chester\\Desktop\\MSSA\\ISTA 322\\PartyInvites\\PartyInvites.csproj": {
+    "C:\\Users\\Cody Chester\\Documents\\GitHub\\MSSA-Exercises\\PartyInvites\\PartyInvites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cody Chester\\Desktop\\MSSA\\ISTA 322\\PartyInvites\\PartyInvites.csproj",
+        "projectUniqueName": "C:\\Users\\Cody Chester\\Documents\\GitHub\\MSSA-Exercises\\PartyInvites\\PartyInvites.csproj",
         "projectName": "PartyInvites",
-        "projectPath": "C:\\Users\\Cody Chester\\Desktop\\MSSA\\ISTA 322\\PartyInvites\\PartyInvites.csproj",
+        "projectPath": "C:\\Users\\Cody Chester\\Documents\\GitHub\\MSSA-Exercises\\PartyInvites\\PartyInvites.csproj",
         "packagesPath": "C:\\Users\\Cody Chester\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cody Chester\\Desktop\\MSSA\\ISTA 322\\PartyInvites\\obj\\",
+        "outputPath": "C:\\Users\\Cody Chester\\Documents\\GitHub\\MSSA-Exercises\\PartyInvites\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cody Chester\\AppData\\Roaming\\NuGet\\NuGet.Config",
