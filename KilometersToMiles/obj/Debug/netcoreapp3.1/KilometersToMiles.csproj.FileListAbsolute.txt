@@ -1,0 +1,13 @@
+C:\Users\Cody Chester\source\repos\KilometersToMiles\bin\Debug\netcoreapp3.1\KilometersToMiles.exe
+C:\Users\Cody Chester\source\repos\KilometersToMiles\bin\Debug\netcoreapp3.1\KilometersToMiles.deps.json
+C:\Users\Cody Chester\source\repos\KilometersToMiles\bin\Debug\netcoreapp3.1\KilometersToMiles.runtimeconfig.json
+C:\Users\Cody Chester\source\repos\KilometersToMiles\bin\Debug\netcoreapp3.1\KilometersToMiles.runtimeconfig.dev.json
+C:\Users\Cody Chester\source\repos\KilometersToMiles\bin\Debug\netcoreapp3.1\KilometersToMiles.dll
+C:\Users\Cody Chester\source\repos\KilometersToMiles\bin\Debug\netcoreapp3.1\KilometersToMiles.pdb
+C:\Users\Cody Chester\source\repos\KilometersToMiles\obj\Debug\netcoreapp3.1\KilometersToMiles.csprojAssemblyReference.cache
+C:\Users\Cody Chester\source\repos\KilometersToMiles\obj\Debug\netcoreapp3.1\KilometersToMiles.AssemblyInfoInputs.cache
+C:\Users\Cody Chester\source\repos\KilometersToMiles\obj\Debug\netcoreapp3.1\KilometersToMiles.AssemblyInfo.cs
+C:\Users\Cody Chester\source\repos\KilometersToMiles\obj\Debug\netcoreapp3.1\KilometersToMiles.csproj.CoreCompileInputs.cache
+C:\Users\Cody Chester\source\repos\KilometersToMiles\obj\Debug\netcoreapp3.1\KilometersToMiles.dll
+C:\Users\Cody Chester\source\repos\KilometersToMiles\obj\Debug\netcoreapp3.1\KilometersToMiles.pdb
+C:\Users\Cody Chester\source\repos\KilometersToMiles\obj\Debug\netcoreapp3.1\KilometersToMiles.genruntimeconfig.cache
