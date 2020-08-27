@@ -4,4 +4,21 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="Views\Home\Index3.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Home\Index3.cshtml" />
+    <None Include="wwwroot\assets\img\close-icon.svg" />
+    <None Include="wwwroot\assets\img\navbar-logo.svg" />
+    <None Include="wwwroot\assets\mail\contact_me.js" />
+    <None Include="wwwroot\assets\mail\contact_me.php" />
+    <None Include="wwwroot\assets\mail\jqBootstrapValidation.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Shared\" />
+  </ItemGroup>
+
 </Project>

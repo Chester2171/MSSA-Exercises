@@ -1,0 +1,13 @@
+C:\Users\Cody Chester\source\repos\BisectionAlgo\bin\Debug\netcoreapp3.1\BisectionAlgo.exe
+C:\Users\Cody Chester\source\repos\BisectionAlgo\bin\Debug\netcoreapp3.1\BisectionAlgo.deps.json
+C:\Users\Cody Chester\source\repos\BisectionAlgo\bin\Debug\netcoreapp3.1\BisectionAlgo.runtimeconfig.json
+C:\Users\Cody Chester\source\repos\BisectionAlgo\bin\Debug\netcoreapp3.1\BisectionAlgo.runtimeconfig.dev.json
+C:\Users\Cody Chester\source\repos\BisectionAlgo\bin\Debug\netcoreapp3.1\BisectionAlgo.dll
+C:\Users\Cody Chester\source\repos\BisectionAlgo\bin\Debug\netcoreapp3.1\BisectionAlgo.pdb
+C:\Users\Cody Chester\source\repos\BisectionAlgo\obj\Debug\netcoreapp3.1\BisectionAlgo.csprojAssemblyReference.cache
+C:\Users\Cody Chester\source\repos\BisectionAlgo\obj\Debug\netcoreapp3.1\BisectionAlgo.AssemblyInfoInputs.cache
+C:\Users\Cody Chester\source\repos\BisectionAlgo\obj\Debug\netcoreapp3.1\BisectionAlgo.AssemblyInfo.cs
+C:\Users\Cody Chester\source\repos\BisectionAlgo\obj\Debug\netcoreapp3.1\BisectionAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Cody Chester\source\repos\BisectionAlgo\obj\Debug\netcoreapp3.1\BisectionAlgo.dll
+C:\Users\Cody Chester\source\repos\BisectionAlgo\obj\Debug\netcoreapp3.1\BisectionAlgo.pdb
+C:\Users\Cody Chester\source\repos\BisectionAlgo\obj\Debug\netcoreapp3.1\BisectionAlgo.genruntimeconfig.cache
