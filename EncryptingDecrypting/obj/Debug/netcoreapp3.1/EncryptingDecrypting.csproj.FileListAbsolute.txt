@@ -1,0 +1,13 @@
+C:\Users\Chest\source\repos\EncryptingDecrypting\bin\Debug\netcoreapp3.1\EncryptingDecrypting.exe
+C:\Users\Chest\source\repos\EncryptingDecrypting\bin\Debug\netcoreapp3.1\EncryptingDecrypting.deps.json
+C:\Users\Chest\source\repos\EncryptingDecrypting\bin\Debug\netcoreapp3.1\EncryptingDecrypting.runtimeconfig.json
+C:\Users\Chest\source\repos\EncryptingDecrypting\bin\Debug\netcoreapp3.1\EncryptingDecrypting.runtimeconfig.dev.json
+C:\Users\Chest\source\repos\EncryptingDecrypting\bin\Debug\netcoreapp3.1\EncryptingDecrypting.dll
+C:\Users\Chest\source\repos\EncryptingDecrypting\bin\Debug\netcoreapp3.1\EncryptingDecrypting.pdb
+C:\Users\Chest\source\repos\EncryptingDecrypting\obj\Debug\netcoreapp3.1\EncryptingDecrypting.csprojAssemblyReference.cache
+C:\Users\Chest\source\repos\EncryptingDecrypting\obj\Debug\netcoreapp3.1\EncryptingDecrypting.AssemblyInfoInputs.cache
+C:\Users\Chest\source\repos\EncryptingDecrypting\obj\Debug\netcoreapp3.1\EncryptingDecrypting.AssemblyInfo.cs
+C:\Users\Chest\source\repos\EncryptingDecrypting\obj\Debug\netcoreapp3.1\EncryptingDecrypting.csproj.CoreCompileInputs.cache
+C:\Users\Chest\source\repos\EncryptingDecrypting\obj\Debug\netcoreapp3.1\EncryptingDecrypting.dll
+C:\Users\Chest\source\repos\EncryptingDecrypting\obj\Debug\netcoreapp3.1\EncryptingDecrypting.pdb
+C:\Users\Chest\source\repos\EncryptingDecrypting\obj\Debug\netcoreapp3.1\EncryptingDecrypting.genruntimeconfig.cache
