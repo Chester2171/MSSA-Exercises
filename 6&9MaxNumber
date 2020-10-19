@@ -1,0 +1,43 @@
+given a positive integer consiting only of digits 6 and 9.
+return the maximum number you can get by changing at most one digit (6 becomes 9, and 9 becomes 6).
+
+input = 9669
+output = 9969 (this would be the maximum number)
+
+*/
+evaluate each charcter of the int starting at the first char 
+if it is a 6 change to a 9 and return the value.
+if it is a 9 continue on until it reaches a six or the end of the int.
+return the value.
+\*
+
+
+public static int MaxNumber(int input)
+{
+	List<int> storage = new List<int>();
+	while(input > 0)
+	{
+		storage.Add(input%10);
+		input\=10;
+	}
+	for(int i = storage.Count - 1; i >= 0; i--)
+	{
+		if(storage[i] == 6)
+		{
+			storage[i] = 9;
+			break;
+		}
+	}
+	for(int j = storage.Count - 1; j >= 0; j--)
+	{
+		input += storage[j];
+		if(j != 0)
+		{
+			input = input * 10;
+		}
+	}
+	return input;
+}
+
+Tim Weigel helped walk me through this one, i was able to get started and made it to the first for loop then everything started to get conveluded in my head. I was able to
+work my way thorugh it but needed help establishing how i would return an integer.
