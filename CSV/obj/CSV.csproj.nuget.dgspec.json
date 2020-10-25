@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chest\\source\\repos\\CSV\\CSV.csproj": {}
+    "C:\\Users\\Chest\\Documents\\GitHub\\MSSA-Exercises\\CSV\\CSV.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chest\\source\\repos\\CSV\\CSV.csproj": {
+    "C:\\Users\\Chest\\Documents\\GitHub\\MSSA-Exercises\\CSV\\CSV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chest\\source\\repos\\CSV\\CSV.csproj",
+        "projectUniqueName": "C:\\Users\\Chest\\Documents\\GitHub\\MSSA-Exercises\\CSV\\CSV.csproj",
         "projectName": "CSV",
-        "projectPath": "C:\\Users\\Chest\\source\\repos\\CSV\\CSV.csproj",
+        "projectPath": "C:\\Users\\Chest\\Documents\\GitHub\\MSSA-Exercises\\CSV\\CSV.csproj",
         "packagesPath": "C:\\Users\\Chest\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chest\\source\\repos\\CSV\\obj\\",
+        "outputPath": "C:\\Users\\Chest\\Documents\\GitHub\\MSSA-Exercises\\CSV\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Chest\\AppData\\Roaming\\NuGet\\NuGet.Config",
