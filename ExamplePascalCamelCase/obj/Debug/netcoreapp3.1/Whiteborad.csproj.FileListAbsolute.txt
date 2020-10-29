@@ -1,0 +1,13 @@
+C:\Users\Chest\source\repos\Whiteborad\bin\Debug\netcoreapp3.1\Whiteborad.exe
+C:\Users\Chest\source\repos\Whiteborad\bin\Debug\netcoreapp3.1\Whiteborad.deps.json
+C:\Users\Chest\source\repos\Whiteborad\bin\Debug\netcoreapp3.1\Whiteborad.runtimeconfig.json
+C:\Users\Chest\source\repos\Whiteborad\bin\Debug\netcoreapp3.1\Whiteborad.runtimeconfig.dev.json
+C:\Users\Chest\source\repos\Whiteborad\bin\Debug\netcoreapp3.1\Whiteborad.dll
+C:\Users\Chest\source\repos\Whiteborad\bin\Debug\netcoreapp3.1\Whiteborad.pdb
+C:\Users\Chest\source\repos\Whiteborad\obj\Debug\netcoreapp3.1\Whiteborad.csprojAssemblyReference.cache
+C:\Users\Chest\source\repos\Whiteborad\obj\Debug\netcoreapp3.1\Whiteborad.AssemblyInfoInputs.cache
+C:\Users\Chest\source\repos\Whiteborad\obj\Debug\netcoreapp3.1\Whiteborad.AssemblyInfo.cs
+C:\Users\Chest\source\repos\Whiteborad\obj\Debug\netcoreapp3.1\Whiteborad.csproj.CoreCompileInputs.cache
+C:\Users\Chest\source\repos\Whiteborad\obj\Debug\netcoreapp3.1\Whiteborad.dll
+C:\Users\Chest\source\repos\Whiteborad\obj\Debug\netcoreapp3.1\Whiteborad.pdb
+C:\Users\Chest\source\repos\Whiteborad\obj\Debug\netcoreapp3.1\Whiteborad.genruntimeconfig.cache
